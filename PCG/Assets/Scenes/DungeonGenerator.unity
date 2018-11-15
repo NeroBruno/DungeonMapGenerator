@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.35872698, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -227,10 +227,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c83976ba8bff6640915733ead6f1a4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RoomCount: 100
-  Radius: 35
-  MainRoomFrequency: 1.2
-  RoomConnectionFrequency: 0.3
+  RoomCount: 450
+  Radius: 65
+  MainRoomFrequency: 1.05
+  RoomConnectionFrequency: 0.385
 --- !u!1 &631843653
 GameObject:
   m_ObjectHideFlags: 0

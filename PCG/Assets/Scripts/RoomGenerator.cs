@@ -413,7 +413,7 @@ public class RoomGenerator : MonoBehaviour {
             }
         }
 
-        OnRoomsGeneratedOnRoomsGenerated();
+        OnRoomsGenerated();
     }
 
     public void ClearData()
